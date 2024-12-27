@@ -1,18 +1,20 @@
 [
-{"name": "🍬┃tang直播","url":"https://ghgo.xyz/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/user_result.m3u"},
+{"name": "🐷┃tang直播","url":"https://ghgo.xyz/https://raw.githubusercontent.com/alantang1977/JunTV/main/output/user_result.txt"},
 {"name": "🍜┃mytvsuper直播","url": "https://www.mytvsuper.com.mp/m3u/Live.m3u"},
-{"name": "🐤┃Guovin直播","url":"https://ghgo.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"},
-{"name": "🧸┃joevess直播","url":"https://ghgo.xyz/https://raw.githubusercontent.com/alantang1977/IPTV-GZ/refs/heads/main/iptv.m3u8"},
-{"name": "🐌┃chao直播","url":"https://ghgo.xyz/https://raw.githubusercontent.com/alantang1977/pg/refs/heads/main/live.txt"},
-{"name": "🎂┃台湾全频道(VPN)","url":"https://ghgo.xyz/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/judy.txt"},
-{"name": "🐶┃秒播-港·澳·台","url":"https://ghgo.xyz/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/hkTVb.txt"},
+{"name": "🐤┃Guovin直播","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"},
+{"name": "🧸┃joevess直播","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/alantang1977/IPTV-GZ/refs/heads/main/iptv.m3u8"},
+{"name": "🐌┃chao直播","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/alantang1977/pg/refs/heads/main/live.txt"},
+{"name": "🎂┃台湾全频道(VPN)","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/judy.txt"},
+{"name": "🐶┃秒播-港·澳·台","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/hkTVb.txt"},
 {"name": "🎂┃港·澳·台·韩","url":"https://aktv.top/live.txt"},	
 {"name": "🥭┃国内外直播","url":"https://4708.kstore.space/zhibo/tv.txt"},
 {"name": "🥎┃ibert-iptv直播","url":"https://m3u.ibert.me/txt/j_iptv.txt"},
 {"name": "⚕️┃粤Live","url":"http://box.1890222.xyz:8081/iptv/live.m3u"},
-{"name": "🐰┃粤港澳","url":"https://ghgo.xyz/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u"},
-{"name": "🐏┃肥羊","url":"https://ghgo.xyz/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/NAS肥羊.m3u"},
-{"name": "🍃┃清风","url":"https://ghgo.xyz/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/清风.m3u8"},
-{"name": "🍚┃suxuang","url":"https://ghgo.xyz/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u"}
+{"name": "🐰┃粤港澳","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u"},
+{"name": "🐏┃肥羊","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/NAS肥羊.m3u"},
+{"name": "🍃┃清风","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/清风.m3u8"},
+{"name": "🔢┃Pixman","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/mytvsuper.m3u"},
+{"name": "🎏┃Pixman","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/tv.m3u"},
+{"name": "🍚┃suxuang","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u"}
 
 ]
